@@ -1,4 +1,4 @@
-###  An analysis of deaths in Los Angeles' deadliest year
+##  An analysis of deaths in Los Angeles' deadliest year
 #### Short description of what you aimed to accomplish
 I sought to find out who the victims of the 1992 LA Riots are and how and where they died.
 
