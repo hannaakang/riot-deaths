@@ -13,7 +13,7 @@ Because the dataset was very short and simple, I did not have much trouble durin
 
 #### A section about what new skills, approaches, etc you used, or where you grew the most during the project: 
 I learned how to use Folium in Jupyter Notebook to produce a map with the areas in which the deaths occurred. I also learned how to switch the longitude and latitude values by writing the code:  
-longitude = death['lat'].values
-latitude = death['lon'].values
+longitude = death['lat'].values and latitude = death['lon'].values
 
-#### A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do): 
+#### A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
+I definitely wanted to go further into analyzing the unsolved cases, i.e. where most unsolved cases occurred, if there are patterns in the unsolved cases. I also feel like I would have been able to find a more compelling angle in the dataset if I had more time. 
